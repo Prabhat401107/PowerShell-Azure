@@ -1,0 +1,10 @@
+set_global_assignment -name TOP_LEVEL_ENTITY top
+set_global_assignment -name VERILOG_FILE top.v
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name FAMILY "Agilex 7"
+set_global_assignment -name DEVICE AGFB014R24B2E2V
+set_global_assignment -name BOARD "Intel Agilex F-Series FPGA Development Kit DK-DEV-AGF014EA"
+
+set_global_assignment -name PWRMGT_VOLTAGE_OUTPUT_FORMAT "LINEAR FORMAT"
+set_global_assignment -name PWRMGT_LINEAR_FORMAT_N "-12"
+set_global_assignment -name LAST_QUARTUS_VERSION "23.4.0 Pro Edition"
