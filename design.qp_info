@@ -1,0 +1,13 @@
+{
+  "id": 721494350,
+  "title": "Design Example Title",
+  "source": "GitHub",
+  "family": "Agilex 7",
+  "quartus_version": "23.4.0 Pro Edition",
+  "devkit": "Intel Agilex F-Series FPGA Development Kit DK-DEV-AGF014EA",
+  "device_part": "AGFB014R24B2E2V",
+  "description": "Configurable N-Bits Counter",
+  "rich_description": "<h1>Design Example Title</h1>\n\n<h2>Introduction</h2>\n\n<p>Describe your design example. </p>\n\n<p>Example: </p>\n\n<p>The Nios\u00ae V processor starts executing the boot copier upon system reset, which copies the application from the configuration quad serial peripheral interface (QSPI) to the internal RAM. Once this completes, the Nios V/g processor transfers the program control over to the application.</p>\n\n<h2>Block Diagram</h2>\n\n<p>Include your block diagrams.</p>\n\n<p>Example:</p>\n\n<p><img src=\"https://github.com/Intel-Design-Store/template/assets/91928627/beb1191e-3077-4a62-905b-45833c3c7b12\" alt=\"image\" /></p>\n\n<p><strong>You are welcome to include any information you believe is relevant or valuable.</strong></p>\n",
+  "url": "https://github.com/Private-DesignStore/top_ui",
+  "downloadUrl": "https://codeload.github.com/Private-DesignStore/top_ui/legacy.zip/refs/heads/main?token=AJ7VCKVZPBNYTK4323HEFLTFLRODBAVPNFXHG5DBNRWGC5DJN5XF62LEZ4AAAAAB3IK3UT5RNFXHG5DBNRWGC5DJN5XF65DZOBS32U3DN5YGKZCJNZ2GKZ3SMF2GS33OJFXHG5DBNRWGC5DJN5XA"
+}
